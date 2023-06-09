@@ -2,7 +2,7 @@
   "name": "awesome-gck",
   "version": "0.1.0",
   "description": "Awesome Gabriel Component Kit",
-  "main": "./src/Components/index.ts",
+  "main": "dist/bundle.js",
   "types": "./types/index.d.ts",
   "scripts": {
     "test": "jest",
